@@ -1,2 +1,2 @@
 # Operation-System-Algorithm-Realization
-This repository mainly realize the algorithms taught in Operating System Course
+This repository mainly store the realization of the algorithms taught in Operating System Course
